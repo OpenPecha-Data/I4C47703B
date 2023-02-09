@@ -1,0 +1,16 @@
+id: I4C47703B
+default_language: en
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+initial_creation_type: input
+imported: 2023-02-10 00:27:47.037515
+last_modified: 2023-02-10 00:27:47.037713
+source_metadata:
+  title: 'Candrakīrti: Madhyamakāvatāra'
+  language: en
+bases:
+  B485:
+    base_file: B485.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''

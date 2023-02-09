@@ -1,0 +1,59 @@
+id: b001a71804e04b1fbd6172f293293758
+annotation_type: index
+revision: '00001'
+annotations:
+  9d90a747da9c4dc580e007d3394e26e3:
+    base: B485.txt
+    Chapters:
+    - title: Title
+      span:
+        start: 0
+        end: 229
+    - title: Preface
+      span:
+        start: 230
+        end: 268
+    - title: 'Chapter 1: Pramuditā'
+      span:
+        start: 269
+        end: 39034
+    - title: 'Chapter 2: Vimalā'
+      span:
+        start: 39035
+        end: 55491
+    - title: 'Chapter 3: Prabhākarī'
+      span:
+        start: 55492
+        end: 76218
+    - title: 'Chapter 4: Arciṣmatī'
+      span:
+        start: 76219
+        end: 81930
+    - title: 'Chapter 5: Sudurjayā'
+      span:
+        start: 81931
+        end: 86451
+    - title: 'Chapter 6: Abhimukhī'
+      span:
+        start: 86452
+        end: 391650
+    - title: 'Chapter 7: Dūraṃgamā'
+      span:
+        start: 391651
+        end: 392955
+    - title: 'Chapter 8: Acalā'
+      span:
+        start: 392956
+        end: 398855
+    - title: 'Chapter 9: Sādhumatī'
+      span:
+        start: 398856
+        end: 399830
+    - title: 'Chapter 10: Dharmameghā'
+      span:
+        start: 399831
+        end: 401343
+    - title: 'Chapter 11: buddhabhūmi'
+      span:
+        start: 401344
+        end: 471347
